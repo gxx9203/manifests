@@ -6,10 +6,9 @@
 	 review="https://github.com/gxx9203/"/>
 
 <default revision="master" 
-	 remote="gxx9203"
+	 remote="origin"
 	 sync-j="4"/>
 
- <project path="tslib" name="tslib" />
-
-
+ <project path="tinyalsa" name="tinyalsa" />
+  </project>
  </mainfest>
