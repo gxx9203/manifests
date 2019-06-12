@@ -1,4 +1,4 @@
-<?xml version="1.0" enconding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote  name ="origin" fetch="." name="gxx9203" review="https://github.com/gxx9203/"/>
 	<default revision="master"  remote="origin" sync-j="4"/>
