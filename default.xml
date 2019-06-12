@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote  name="gxx9203" fetch="."  review="https://github.com/gxx9203/"/>
-	<default revision="master"  remote="origin" sync-j="4"/>
+	<default revision="master"  remote="gxx9203" sync-j="4"/>
 	
 	<project name="perf-tools" path="tools/perf-tools"  />
 </manifest>
