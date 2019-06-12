@@ -4,4 +4,4 @@
 	<default revision="master"  remote="origin" sync-j="4"/>
 	
 	<project name="perf-tools" path="tools/perf-tools"  />
-</mainfest>
+</manifest>
