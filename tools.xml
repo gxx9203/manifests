@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote  name="tools" fetch="https://github.com/gxx9203"  review="https://github.com/gxx9203/"/>
+	<default revision="master"  remote="tools" sync-j="4"/>
+	
+	<project path="tools/LogFilterforAndroid" name="LogFilterforAndroid" />
+</manifest>
