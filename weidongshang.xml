@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote  name="weidongshan" fetch="https://github.com/weidongshan/" />
+	<default revision="master"  sync-j="4"/>
+	
+	<project path="weidongshan/luanguage/cpp_projects" name="cpp_projects" remote="weidongshan" />
+	<project path="weidongshan/luanguage/java_projects" name="java_projects" remote="weidongshan" />
+
+	<project path="weidongshan/APP/APP_0001_LEDDemo" name="APP_0001_LEDDemo" remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0002_LIGHTDemo" name="APP_0002_LIGHTDemo" remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0003_Binder_C_App" name="APP_0003_Binder_C_App" remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0004_Binder_CPP_App" name="APP_0004_Binder_CPP_App"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0005_Binder_JAVA_App" name="APP_0005_Binder_JAVA_App" remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0006_inotify_epoll" name="APP_0006_inotify_epoll"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0007_socketpair_binder" name="APP_0007_socketpair_binder"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0008_ViewHierarchy" name="APP_0008_ViewHierarchy"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0009_InputStage" name="APP_0009_InputStage"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0010_SurfaceTest" name="APP_0010_SurfaceTest"  remote="weidongshan" />
+	<project path="weidongshan/APP/APP_0011_AudioRecordTest" name="APP_0011_AudioRecordTest"  remote="weidongshan" />
+
+	<project path="weidongshan/SYS/SYS_0001_LEDDemo" name="SYS_0001_LEDDemo"  remote="weidongshan" />
+	<project path="weidongshan/SYS/SYS_0002_Lights" name="SYS_0002_Lights"  remote="weidongshan" />
+	<project path="weidongshan/SYS/SYS_0003_Patch_Disable_HWC_GPU_tiny4412" name="SYS_0003_Patch_Disable_HWC_GPU_tiny4412"  remote="weidongshan" />
+	<project path="weidongshan/SYS/SYS_0004_Headset_on_StatusBar" name="SYS_0004_Headset_on_StatusBar"  remote="weidongshan" />
+	<project path="weidongshan/SYS/SYS_0005_AudioPolicyManager_Support_Multi_AudioRecord" name="SYS_0005_AudioPolicyManager_Support_Multi_AudioRecord"  remote="weidongshan" />
+	
+	<!-- <project path="weidongshan/DRV/DRV_0001_LEDS" name="DRV_0001_LEDS"  remote="weidongshan" /> -->
+	<project path="weidongshan/DRV/DRV_0003_Binder" name="DRV_0003_Binder"  remote="weidongshan" />
+	<project path="weidongshan/DRV/DRV_0004_InputEmulator" name="DRV_0004_InputEmulator"  remote="weidongshan" />
+	<project path="weidongshan/DRV/DRV_0005_MultiTouchPanel" name="DRV_0005_MultiTouchPanel"  remote="weidongshan" />
+	<project path="weidongshan/DRV/DRV_0006_ASoC" name="DRV_0006_ASoC"  remote="weidongshan" />
+	<project path="weidongshan/DRV/DRV_0007_tiny4412_asoc_machine" name="DRV_0007_tiny4412_asoc_machine"  remote="weidongshan" />
+	<project path="weidongshan/DRV/DRV_0008_jack_for_sound_card" name="DRV_0008_jack_for_sound_card"  remote="weidongshan" />
+	<project path="weidongshan/HAL/HAL_0001_LED" name="HAL_0001_LED"  remote="weidongshan" />
+	<project path="weidongshan/JNI/JNIDemo" name="JNIDemo"  remote="weidongshan" />
+</manifest>
