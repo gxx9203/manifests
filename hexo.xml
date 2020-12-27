@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote  name="master" fetch="."  review="git@github.com:gxx9203"/>
+    <remote  name="master" fetch="git@github.com:gxx9203"  review="git@github.com:gxx9203"/>
     <remote  name="blinkfox" fetch="https://github.com/blinkfox/"/>
     <default revision="master"  remote="master" sync-j="4"/>
 	
