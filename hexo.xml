@@ -4,6 +4,6 @@
     <remote  name="blinkfox" fetch="https://github.com/blinkfox/"/>
     <default revision="master"  remote="gxx9203" sync-j="4"/>
 	
-	<project name="gxx9203.github.io" path="gxx9203.github.io" />
+	<project name="gxx9203.github.io" path="gxx9203.github.io" reversion="hexo" />
     <project name="hexo-theme-matery" path="theme/hexo-theme-matery" remote="blinkfox" />
 </manifest>
