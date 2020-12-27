@@ -9,3 +9,8 @@ repo init -u  git@github.com:gxx9203/manifests.git -m default.xml
 # TODO
 github repo .how to use ssh to push ?
 
+temp solve method  only input one time username and password
+```
+git config --global credential.helper store
+```
+
