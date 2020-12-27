@@ -2,8 +2,8 @@
 <manifest>
     <remote  name="origin" fetch="https://github.com/gxx9203"  review="https://github.com/gxx9203"/>
     <remote  name="blinkfox" fetch="https://github.com/blinkfox/"/>
-    <defaul  remote="origin" sync-j="4"/>
+    <default  remote="origin" sync-j="4"/>
 	
     <project name="gxx9203.github.io" path="gxx9203.github.io" remote="origin" revision="hexo" />
-    <project name="hexo-theme-matery" path="theme/hexo-theme-matery" remote="blinkfox" revision="master" />
+    <project name="hexo-theme-matery" path="gxx9203.github.io/myBlog/themes/hexo-theme-matery" remote="blinkfox" revision="master"/>
 </manifest>
