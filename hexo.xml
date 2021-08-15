@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote  name="origin" fetch="git@github.com:gxx9203/"/>
+    <remote  name="origin" fetch="ssh://git@github.com:gxx9203/"/>
     <remote  name="blinkfox" fetch="https://github.com/blinkfox/"/>
     <default  remote="origin" sync-j="4"/>
 	
